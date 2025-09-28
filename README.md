@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-21-red?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Framework-brightgreen?logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache-Kafka-black?logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.30-blue?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-🐳-blue?logo=docker&logoColor=white)
