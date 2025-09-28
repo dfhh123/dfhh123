@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Kotlin**
 - 💼 Building projects with **Java & Microservices**
 - 🎯 Goal: my goal is to become an **architect** before I'm 30.
-- ⚡ Fun fact: I love solving tough backend challenges
+- ⚡ Fun fact: Sometimes, when I want to relax, I decide to study some technology that is not typical for my stack.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
