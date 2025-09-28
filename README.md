@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **Spring Cloud, Kafka, Kubernetes**
 - 💼 Building projects with **Java & Microservices**
-- 🎯 Goal: grow into a **Senior Java Developer**
+- 🎯 Goal: my goal is to become an **architect** before I'm 30.
 - ⚡ Fun fact: I love solving tough backend challenges
 
 ## 🛠️ Tech Stack
