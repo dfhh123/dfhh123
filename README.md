@@ -17,13 +17,13 @@
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dfhh123&theme=github-dark&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dfhh123&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
 
-## 💻 Coding Activity
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dfhh123&theme=github-dark&hide_border=true&layout=compact)
+## 🧮 Code Volume
+![Lines of Code](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=dfhh123&theme=github_dark)
 
 ## 💻 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfhh123&layout=default&theme=github-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfhh123&layout=compact&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfhh123&show_icons=true&theme=github-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfhh123&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
