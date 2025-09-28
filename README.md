@@ -1,7 +1,7 @@
 # Hi there 👋, I'm dfhh123
 
 ## 🚀 About Me
-- 🌱 Currently learning **Spring Cloud, Kafka, Kubernetes**
+- 🌱 Currently learning **Kotlin**
 - 💼 Building projects with **Java & Microservices**
 - 🎯 Goal: my goal is to become an **architect** before I'm 30.
 - ⚡ Fun fact: I love solving tough backend challenges
