@@ -22,3 +22,4 @@ jobs:
           USERNAME: dfhh123
           BRANCH_NAME: main
           UTC_OFFSET: +03:00
+          AUTO_PUSH: true
