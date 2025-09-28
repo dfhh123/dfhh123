@@ -20,7 +20,7 @@
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dfhh123&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
 
 ## 🧮 Code Volume
-![Lines of Code](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=dfhh123&theme=github_dark)
+![Lines of Code](https://raw.githubusercontent.com/dfhh123/dfhh123/main/profile-summary-card-output/default/lines-of-code.svg)
 
 ## 💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfhh123&layout=compact&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
