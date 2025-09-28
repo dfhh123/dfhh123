@@ -11,6 +11,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -18,4 +22,3 @@ jobs:
           USERNAME: dfhh123
           BRANCH_NAME: main
           UTC_OFFSET: +03:00
-          THEME: github_dark
